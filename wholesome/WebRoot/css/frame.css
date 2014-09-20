@@ -1,0 +1,231 @@
+
+body {
+    font-family: "Microsoft YaHei",Î¢ÈíÑÅºÚ,"Microsoft JhengHei",»ªÎÄÏ¸ºÚ,STHeiti,MingLiu;
+    font-weight: 300;
+}
+
+.section-title {
+    border-bottom-color: #008cba;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    padding-top: 0;
+    text-transform: uppercase;
+    font-size: 34px;
+}
+
+.section-title2 {
+	width:85%;
+    border-bottom-color: #008cba;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    padding-top: 0;
+    text-transform: uppercase;
+    margin-top: 21px;
+    font-size: 16px;
+}
+
+.clear {
+    clear: both;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #008cba;
+}
+
+img {
+	width: 100%;
+}
+
+.col-md-4 #feature img{
+	width: 347px;
+	height: 232px;
+}
+
+.head{
+    border-bottom-width: 0;
+}
+
+.carousel{
+	height: 300px;
+	margin: -20px -20px 0px; 
+}
+
+.fl{
+	float: left;
+}
+
+#feature .al{
+	text-align: left;
+	padding-bottom: 4px;
+}
+
+
+#feature  div {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#feature .title {
+    font-family: "Microsoft Yahei","Hiragino Sans GB","Helvetica Neue",Arial,sans-serif;
+    font-size: 24px;
+    margin-top: 10px;
+    color: #0082e5;
+    padding-bottom: 10px;
+}
+
+
+.box {
+    height: 330px;
+}
+
+
+.box .box1_r_con {
+    float: left;
+    height: auto;
+    margin-left: 8px;
+    width: 210px;
+}
+
+.box ul li {
+    border-bottom-color: #a9a29b;
+    border-bottom-style: dotted;
+    border-bottom-width: 1px;
+    height: 64px;
+    margin-left: 15px;
+    width: 100%;
+}
+
+
+
+.box ul li {
+    border-bottom-color: #a9a29b;
+    border-bottom-style: dotted;
+    border-bottom-width: 1px;
+    height: 64px;
+    margin-left: 15px;
+    width: 100%;
+}
+ul, li {
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+}
+
+.box .box1_r_con p {
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.box .box1_r_con span {
+    color: #000;
+    display: block;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+
+.box ul {
+    height: auto;
+    margin-left: 0;
+    margin-right: 24px;
+    margin-top: 5px;
+    padding-left: 0;
+}
+
+.box ul li > span.glyphicon {
+    float: left;
+    font-size: 28px;
+    padding-top: 18px;
+}
+
+.box ul li > i.fa {
+    float: left;
+    font-size: 28px;
+    padding-top: 18px;
+}
+
+#feature .row div .text {
+    font-family: "Microsoft Yahei","Hiragino Sans GB","Helvetica Neue",Arial,sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.label{
+	margin-right: 12px;
+}
+
+.red{
+	color: red;
+}
+
+.green{
+	color: green;
+}
+
+.blue{
+	color: rgba(41, 128, 185, 0.9);
+}
+.blue1{
+	color: #0082e5;
+}
+
+#back-top a i {
+    font-size: 3em;
+}
+
+#back-top a:hover {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+a:active, a:focus {
+   text-decoration:none;
+   outline:none;
+}
+
+#back-top a {
+    background-color: rgba(0, 0, 0, 0.3);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    bottom: 30px;
+    color: #eee;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    position: fixed;
+    right: 20px;
+    text-align: center;
+    transition-delay: 0s;
+    transition-duration: 0.25s;
+    transition-property: all;
+    transition-timing-function: ease;
+}
+
+#lcControl{
+	top: 12px;
+}
+
+#lcControl .navbar-nav > li > a {
+	background-color: #006666;
+    color: white;
+    font-size: 20px;
+}
+
+#lcControl .navbar-nav > li > a:hover {
+	background-color: #003366;
+    color: white;
+    font-size: 20px;
+}
+
+#lcControl .navbar-nav > li{
+	margin-right: 12px;
+}
+
